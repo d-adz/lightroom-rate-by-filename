@@ -2,10 +2,13 @@
 
 Paste the filenames your client picked and this plugin star-rates the matching photos in your catalogue, with an optional Pick flag. It also tells you which pasted names it couldn't find.
 
+![Rate Photos from Filename List dialog](screenshot.png)
+
 ## Install (once)
 
-1. Download the `RateByFilename.lrdevplugin` folder and keep it somewhere permanent (e.g. Documents). Don't delete it after installing.
-2. In Lightroom Classic go to **File > Plug-in Manager > Add**, select the `RateByFilename.lrdevplugin` folder, then click **Done**.
+1. Download `RateByFilename-v1.0.0.zip` from the [latest release](../../releases/latest) and unzip it.
+2. Keep the `RateByFilename.lrdevplugin` folder somewhere permanent (e.g. Documents). Don't delete it after installing.
+3. In Lightroom Classic go to **File > Plug-in Manager > Add**, select the `RateByFilename.lrdevplugin` folder, then click **Done**.
 
 ## Use
 
@@ -27,7 +30,7 @@ Paste the filenames your client picked and this plugin star-rates the matching p
 
 ## Compatibility
 
-Built for Lightroom Classic on macOS. Not yet tested on Windows. It does not work with the cloud-based Lightroom app, which has no plug-in support.
+Tested on Lightroom Classic on macOS. Not yet tested on Windows. It does not work with the cloud-based Lightroom app, which has no plug-in support.
 
 ## Licence
 
